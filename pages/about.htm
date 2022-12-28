@@ -1,0 +1,18 @@
+url = "/about"
+layout = "default"
+title = "About"
+==
+<div class="container">
+  <header class="d-flex justify-content-center py-3">
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a href="{{ 'default'|page }}" class="nav-link">Home</a></li>
+      <li class="nav-item"><a href="{{ 'features'|page }}" class="nav-link">Features</a></li>
+      <li class="nav-item"><a href="{{ 'cheatsheet'|page }}" class="nav-link">CheatSheet</a></li>
+      <li class="nav-item"><a href="{{ 'about'|page }}" class="nav-link active" aria-current="page">About</a></li>
+    </ul>
+  </header>
+</div>
+
+<div class="container">
+    {% content "faqs.htm" %}
+</div>
