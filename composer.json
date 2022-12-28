@@ -1,0 +1,8 @@
+{
+    "name": "nielsvandendries/798657-225368-theme",
+    "type": "october-theme",
+    "description": "VisualX Viking Series Themes based on Bootrstap 5.3.0-alpha1",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
