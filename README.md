@@ -19,3 +19,7 @@ Being integrated:
   - animation.style
 
 If you have any questions, post a github issue and I'll answer you as soon as possible
+
+---
+v1.0.0: Theme initialization
+v1.0.1: Integrated animate.style v4.1.1 and Bootstrap Icons v1.10.3
