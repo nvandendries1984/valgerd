@@ -1,8 +1,3 @@
-
-<p align="center">
- <img src="https://visualx.nl/storage/app/media/VisualX.png" >
-</p>
-
 Niet officiele release van Bootstrap, Deze release zal samen met de release van Bootstrap worden ge upgrade.
 Geintegreerd zijn:
 
