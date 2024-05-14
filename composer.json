@@ -1,7 +1,7 @@
 {
-    "name": "nielsvandendries/798657-225368-theme",
+    "name": "nielsvandendries/valgerd-vapore-theme",
     "type": "october-theme",
-    "description": "VisualX Viking Series Themes based on Bootrstap",
+    "description": "Viking Series Themes based on Bootrstap",
     "require": {
         "composer/installers": "~1.0"
     }
