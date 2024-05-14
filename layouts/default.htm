@@ -1,6 +1,7 @@
+==
 <!DOCTYPE html>
 {# by changing data-bs-theme="dark" to data-bs-theme="light" you change the theme. #}
-<html lang="en" data-bs-theme="dark">
+<html lang="en" data-bs-theme="light">
 <head>
     {% partial "system/metadata" %}
     {% partial "system/stylesheets" %}
@@ -12,7 +13,7 @@
     <main >
         {% page %}
     </main>
-    <footer>
+    <footer class="fixed-bottom">
         {% partial "footer" %}
     </footer>
     <script src="{{ 'assets/vendor/bootstrap/js/bootstrap.bundle.js'|theme }}"></script>
